@@ -1,0 +1,54 @@
+:root {
+    --grey: #6FB845;
+    --white: #D9FCC5;
+}
+
+* {
+    font-family: 'Montserrat' sans-serif !important;
+    margin: 5mm;
+}
+
+nav {
+    background-image: url("/images/brown-paper.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.jumbotron {
+    background-image: url(/images/jumbo-image.jpg);
+    background-size: cover;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+h4 {
+    font-size: 10px;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bio {
+    justify-content: flex-start;
+}
+
+.details {
+    align-items: center;
+    justify-content: flex-end;
+}
+
+footer {
+    margin-right: 0;
+    margin-left: auto;
+}
