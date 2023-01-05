@@ -1,4 +1,10 @@
-# Challenge3
+# Challenge 3
+
+For this challenge we were asked to create a portfolio website with Bootstrap components such as a jumbotron and cards. I created mine from scratch rather than update from the previous assignment, since I had gone slightly 'off-piste' and built a cat sitting website instead of a portfolio. 
+
+Below I've listed the acceptance criteria we were given. 
+
+# Acceptance criteria
 
 Using Bootstrap, recreate your portfolio site with the following items:
 
@@ -40,3 +46,6 @@ All buttons should display a box shadow upon hover.
 Your Bootstrap solution should minimize use of media queries.
 
 Deploy your new Bootstrap-powered portfolio to GitHub Pages.
+
+
+![portfolio demo](./images/01-css-challenge-demo.gif)
