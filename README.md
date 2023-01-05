@@ -48,4 +48,4 @@ Your Bootstrap solution should minimize use of media queries.
 Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+![portfolio demo](./images/Screenshot 2023-01-05 220230.jpg)
