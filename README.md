@@ -2,6 +2,13 @@
 
 For this challenge we were asked to create a portfolio website with Bootstrap components such as a jumbotron and cards. I created mine from scratch rather than update from the previous assignment, since I had gone slightly 'off-piste' and built a cat sitting website instead of a portfolio. 
 
+https://emilycsimpson.github.io/Bootstrap-Portfolio/
+
+
+![portfolio demo](./images/Screenshot 2023-01-05 220230.jpg)
+
+
+
 Below I've listed the acceptance criteria we were given. 
 
 # Acceptance criteria
@@ -47,5 +54,3 @@ Your Bootstrap solution should minimize use of media queries.
 
 Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
-
-![portfolio demo](./images/Screenshot 2023-01-05 220230.jpg)
