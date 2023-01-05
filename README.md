@@ -5,7 +5,7 @@ For this challenge we were asked to create a portfolio website with Bootstrap co
 https://emilycsimpson.github.io/Bootstrap-Portfolio/
 
 
-![portfolio demo](./images/Screenshot 2023-01-05 220230.jpg)
+![portfolio demo](/images/Bootstrap-portfolio-web.jpg)
 
 
 
